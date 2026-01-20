@@ -62,7 +62,7 @@
   <a href="#" class="btn">Voir les formations</a>
 </section><section>
   <h2>📞 Contact</h2>
-  <p>WhatsApp : +229 0150312380 XX<br>Email : contact@monsite.com</p>
+  <p>WhatsApp : +229 0150312380 XX<br>Email : contactlevisakakpo1@gmail.com</p>
 </section><footer>
   <p>⚠️ Jouez de manière responsable • Le trading comporte des risques</p>
   <p>© 2026 - Tous droits réservés</p>
